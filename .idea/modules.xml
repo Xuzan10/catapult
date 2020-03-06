@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="com.kaneoriley.cyanogenport.launcher3_1_src.tar.gz/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kaneoriley.cyanogenport.launcher3_1_src.tar.gz.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kaneoriley.cyanogenport.launcher3_1_src.tar.gz.iml" group="com.kaneoriley.cyanogenport.launcher3_1_src.tar.gz" />
+      <module fileurl="file://$PROJECT_DIR$/WallpaperPicker/wallpaperPicker.iml" filepath="$PROJECT_DIR$/WallpaperPicker/wallpaperPicker.iml" group="com.kaneoriley.cyanogenport.launcher3_1_src.tar.gz/wallpaperPicker" />
+    </modules>
+  </component>
+</project>
